@@ -1,6 +1,6 @@
 {
-  "name": "slugify-url",
-  "version": "1.3.0",
+  "name": "@sarthakk04/slugify-url",
+  "version": "1.4.0",
   "description": "🔗 Convert any string into a clean, URL-friendly slug.",
   "homepage": "https://github.com/sarthakk04/slugify-url#readme",
   "bugs": {
