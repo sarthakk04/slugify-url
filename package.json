@@ -1,0 +1,20 @@
+{
+  "name": "slugify-url",
+  "version": "1.2.0",
+  "description": "🔗 Convert any string into a clean, URL-friendly slug.",
+  "homepage": "https://github.com/sarthakk04/slugify-url#readme",
+  "bugs": {
+    "url": "https://github.com/sarthakk04/slugify-url/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarthakk04/slugify-url.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
